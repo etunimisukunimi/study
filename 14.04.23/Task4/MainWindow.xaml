@@ -1,0 +1,33 @@
+﻿<Window x:Class="WpfApp1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title=" " Height="250" Width="200">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="Auto"/>
+        </Grid.ColumnDefinitions>
+        
+        <TextBlock Grid.Row="0" Grid.Column="0" Margin="5" Text="A:" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+        <TextBlock Grid.Row="1" Grid.Column="0" Margin="5" Text="B:" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+        <TextBlock Grid.Row="2" Grid.Column="0" Margin="5" Text="C:" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+        <TextBlock Grid.Row="4" Grid.Column="0" Margin="5" Text="Количество:" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+        <TextBlock Grid.Row="5" Grid.Column="0" Margin="5" Text="Площадь:" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+        
+        <TextBox x:Name="TbA" Grid.Row="0" Grid.Column="1" Margin="5" Width="20" VerticalAlignment="Center"/>
+        <TextBox x:Name="TbB" Grid.Row="1" Grid.Column="1" Margin="5" Width="20" VerticalAlignment="Center"/>
+        <TextBox x:Name="TbC" Grid.Row="2" Grid.Column="1" Margin="5" Width="20" VerticalAlignment="Center"/>
+        <TextBox x:Name="TbCount" Grid.Row="4" Grid.Column="1" Margin="5" Width="20" VerticalAlignment="Center" IsReadOnly="True" Height="24"/>
+        <TextBox x:Name="TbArea" Grid.Row="5" Grid.Column="1" Margin="5" Width="20" VerticalAlignment="Center" IsReadOnly="True" Height="24"/>
+
+        <Button Grid.Row="3" Grid.Column="0" Grid.ColumnSpan="1" VerticalAlignment="Center" HorizontalAlignment="Center" Padding="5" Margin="10" Content="Вычислить" Click="BtnCalculate_Click"/>
+    </Grid>
+</Window>

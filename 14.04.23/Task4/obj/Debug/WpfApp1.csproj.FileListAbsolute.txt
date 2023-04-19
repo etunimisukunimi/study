@@ -1,0 +1,57 @@
+C:\Users\Hyperpop\Desktop\илларионов практика 7 варик\Практическая работа №1\Задание №1\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\Hyperpop\Desktop\илларионов практика 7 варик\Практическая работа №1\Задание №1\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\Hyperpop\Desktop\илларионов практика 7 варик\Практическая работа №1\Задание №1\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\Hyperpop\Desktop\илларионов практика 7 варик\Практическая работа №1\Задание №1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\Hyperpop\Desktop\илларионов практика 7 варик\Практическая работа №1\Задание №1\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\Hyperpop\Desktop\илларионов практика 7 варик\Практическая работа №1\Задание №1\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\Hyperpop\Desktop\илларионов практика 7 варик\Практическая работа №1\Задание №1\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Hyperpop\Desktop\илларионов практика 7 варик\Практическая работа №1\Задание №1\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Hyperpop\Desktop\илларионов практика 7 варик\Практическая работа №1\Задание №1\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\Hyperpop\Desktop\илларионов практика 7 варик\Практическая работа №1\Задание №1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\Hyperpop\Desktop\илларионов практика 7 варик\Практическая работа №1\Задание №1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Hyperpop\Desktop\илларионов практика 7 варик\Практическая работа №1\Задание №1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\Hyperpop\Desktop\илларионов практика 7 варик\Практическая работа №1\Задание №1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Hyperpop\Desktop\илларионов практика 7 варик\Практическая работа №1\Задание №1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\Hyperpop\Desktop\илларионов практика 7 варик\Практическая работа №1\Задание №1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\Hyperpop\Desktop\илларионов практика 7 варик\Практическая работа №2\Задание №1\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\Hyperpop\Desktop\илларионов практика 7 варик\Практическая работа №2\Задание №1\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\Hyperpop\Desktop\илларионов практика 7 варик\Практическая работа №2\Задание №1\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\Hyperpop\Desktop\илларионов практика 7 варик\Практическая работа №2\Задание №1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\Hyperpop\Desktop\илларионов практика 7 варик\Практическая работа №2\Задание №1\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\Hyperpop\Desktop\илларионов практика 7 варик\Практическая работа №2\Задание №1\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\Hyperpop\Desktop\илларионов практика 7 варик\Практическая работа №2\Задание №1\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\Hyperpop\Desktop\илларионов практика 7 варик\Практическая работа №2\Задание №1\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Hyperpop\Desktop\илларионов практика 7 варик\Практическая работа №2\Задание №1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\Hyperpop\Desktop\илларионов практика 7 варик\Практическая работа №2\Задание №1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Hyperpop\Desktop\илларионов практика 7 варик\Практическая работа №2\Задание №1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\Hyperpop\Desktop\илларионов практика 7 варик\Практическая работа №2\Задание №1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Hyperpop\Desktop\илларионов практика 7 варик\Практическая работа №2\Задание №1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\Hyperpop\Desktop\илларионов практика 7 варик\Практическая работа №2\Задание №1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\Hyperpop\Desktop\илларионов практика 7 варик\Практическая работа №2\Дополнительное задание №1\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\Hyperpop\Desktop\илларионов практика 7 варик\Практическая работа №2\Дополнительное задание №1\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\Hyperpop\Desktop\илларионов практика 7 варик\Практическая работа №2\Дополнительное задание №1\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\Hyperpop\Desktop\илларионов практика 7 варик\Практическая работа №2\Дополнительное задание №1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\Hyperpop\Desktop\илларионов практика 7 варик\Практическая работа №2\Дополнительное задание №1\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\Hyperpop\Desktop\илларионов практика 7 варик\Практическая работа №2\Дополнительное задание №1\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\Hyperpop\Desktop\илларионов практика 7 варик\Практическая работа №2\Дополнительное задание №1\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\Hyperpop\Desktop\илларионов практика 7 варик\Практическая работа №2\Дополнительное задание №1\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Hyperpop\Desktop\илларионов практика 7 варик\Практическая работа №2\Дополнительное задание №1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\Hyperpop\Desktop\илларионов практика 7 варик\Практическая работа №2\Дополнительное задание №1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Hyperpop\Desktop\илларионов практика 7 варик\Практическая работа №2\Дополнительное задание №1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\Hyperpop\Desktop\илларионов практика 7 варик\Практическая работа №2\Дополнительное задание №1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Hyperpop\Desktop\илларионов практика 7 варик\Практическая работа №2\Дополнительное задание №1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\Hyperpop\Desktop\илларионов практика 7 варик\Практическая работа №2\Дополнительное задание №1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\User\Desktop\Практика\14.04.23\Task4\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\User\Desktop\Практика\14.04.23\Task4\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\User\Desktop\Практика\14.04.23\Task4\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\User\Desktop\Практика\14.04.23\Task4\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Практика\14.04.23\Task4\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\Практика\14.04.23\Task4\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\Практика\14.04.23\Task4\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\User\Desktop\Практика\14.04.23\Task4\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\User\Desktop\Практика\14.04.23\Task4\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\User\Desktop\Практика\14.04.23\Task4\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\User\Desktop\Практика\14.04.23\Task4\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Практика\14.04.23\Task4\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Практика\14.04.23\Task4\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\User\Desktop\Практика\14.04.23\Task4\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
